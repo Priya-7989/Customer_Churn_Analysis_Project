@@ -1,5 +1,5 @@
 # Customer_Churn_Analysis_Project
-Helloo!
+Hello!
 
 This was my first hands-on coding project using Python and pandas. 
 I explored the Telco Customer Churn dataset to understand how customer behavior translates into business outcomes. 
